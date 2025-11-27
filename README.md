@@ -17,21 +17,21 @@ Demonstrate various UI/UX design tools in detail.
 
 ## Output:
 
-<img width="390" height="712" alt="image" src="https://github.com/user-attachments/assets/293451da-0f34-405d-87cc-f583f3a2288e" />
+![WhatsApp Image 2025-11-27 at 09 02 20_40e23281](https://github.com/user-attachments/assets/5794161f-d9ab-4a9f-8d8f-d6c366d163a6)
+![WhatsApp Image 2025-11-27 at 09 03 26_7eda27ad](https://github.com/user-attachments/assets/360b84ff-e85c-444e-b83d-418f09511882)
+![WhatsApp Image 2025-11-27 at 09 04 05_58fdac59](https://github.com/user-attachments/assets/9e769c0a-dbcd-42d3-bb0b-333c17c7f734)
+![WhatsApp Image 2025-11-27 at 09 04 32_2e608e1f](https://github.com/user-attachments/assets/55a3bf96-5073-4938-9a9b-08f7d937872c)
+![WhatsApp Image 2025-11-27 at 09 05 04_f3f9e88a](https://github.com/user-attachments/assets/bdd999db-0a70-46be-854a-1154721ff609)
+![WhatsApp Image 2025-11-27 at 09 05 49_6252ef16](https://github.com/user-attachments/assets/c518be23-789c-435b-b1e9-2ca0fb366d55)
+![WhatsApp Image 2025-11-27 at 09 06 26_aa511e7a](https://github.com/user-attachments/assets/15ea372a-002b-426b-9e7b-66bb9d076a12)
+![WhatsApp Image 2025-11-27 at 09 07 04_bf99d6e0](https://github.com/user-attachments/assets/b75b5893-d35d-4914-825f-73ab6d868430)
 
-<img width="390" height="710" alt="image" src="https://github.com/user-attachments/assets/0d5d5fdf-e147-44b7-8986-84f8fc5311da" />
 
-<img width="390" height="712" alt="image" src="https://github.com/user-attachments/assets/02280ffd-cd51-497e-8562-2e4e7cd0415d" />
 
-<img width="390" height="709" alt="image" src="https://github.com/user-attachments/assets/e4a27288-2cdf-4c5c-adda-5eb73e9e3647" />
 
-<img width="390" height="698" alt="image" src="https://github.com/user-attachments/assets/4610f67e-a38b-47e7-832f-da7fab10c0d1" />
 
-<img width="390" height="727" alt="image" src="https://github.com/user-attachments/assets/83a1bcfa-acba-402f-be27-6981225a31f4" />
 
-<img width="390" height="723" alt="image" src="https://github.com/user-attachments/assets/aa415127-5d60-4bca-bf19-3a9a1f2073f1" />
 
-<img width="390" height="680" alt="image" src="https://github.com/user-attachments/assets/5794a7b3-cc3c-4b86-8453-ae828e348ddf" />
 
 ## Result:
 
